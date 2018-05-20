@@ -8,6 +8,10 @@ Allows the user to analyze Twitter sentiment based on selected time event  and v
 * Kartik Joshi
 * Bhushan Jagtap
 
+## Project Report :
+
+[Report](https://github.com/Bhushan-Jagtap-2013/Time-based-sentiment-analysis-twitter/blob/master/project_report/time-based-analysis.pdf)
+
 ## 1. Introduction:
 
 Allow user to provide a hashtag as input and gather all the data related to given hashtag (E.g. #GunReform). Perform sentiment analysis on extracted tweets and plot that on time series format.  Along with Time series data plotting, plot Geolocation data, Devices used for tweeting, and information like count of unique users, tweet’s likes, re-tweets etc.
