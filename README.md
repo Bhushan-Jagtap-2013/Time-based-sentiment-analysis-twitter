@@ -2,13 +2,13 @@
 Allows the user to analyze Twitter sentiment based on selected time event  and visualizes  the results
 
 
-## Group Members :
+## Group Members:
 
 * Vishal Kudale
 * Kartik Joshi
 * Bhushan Jagtap
 
-## Project Report :
+#### Project Report:
 
 [Report](https://github.com/Bhushan-Jagtap-2013/Time-based-sentiment-analysis-twitter/blob/master/project_report/time-based-analysis.pdf)
 
