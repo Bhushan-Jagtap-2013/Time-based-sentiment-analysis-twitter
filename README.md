@@ -72,3 +72,11 @@ We have provided a drop-down list for user from which user can select a date on 
 #### 5. Visualize results
 Once we have all the processed information we can visualize the results based on date entered by user using graphs such as time series, geo-plot, sentiment analysis bar graph etc.
 
+## 5. Results
+
+![Graph1](https://github.com/Bhushan-Jagtap-2013/Time-based-sentiment-analysis-twitter/blob/master/results/graph1.png)
+![Graph2](https://github.com/Bhushan-Jagtap-2013/Time-based-sentiment-analysis-twitter/blob/master/results/graph2.png)
+![Graph3](https://github.com/Bhushan-Jagtap-2013/Time-based-sentiment-analysis-twitter/blob/master/results/graph3.png)
+![Graph4](https://github.com/Bhushan-Jagtap-2013/Time-based-sentiment-analysis-twitter/blob/master/results/graph4.png)
+![Graph5](https://github.com/Bhushan-Jagtap-2013/Time-based-sentiment-analysis-twitter/blob/master/results/graph5.png)
+![Graph6](https://github.com/Bhushan-Jagtap-2013/Time-based-sentiment-analysis-twitter/blob/master/results/graph6.png)
